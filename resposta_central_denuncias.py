@@ -3,35 +3,35 @@ from tkinter import ttk, messagebox, scrolledtext
 
 SECCIONAIS = {
     "1ª Seccional Centro": {
-        "nome": "Carlos Eduardo Duarte de Carvalho",
+        "nome": "Carlos Eduardo Duarte de Carvalho"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 1ª DELEGACIA SECCIONAL DE POLÍCIA - CENTRO",
         "email": "carlosecarvalho@sp.gov.br"
     },
     "2ª Seccional Sul": {
-        "nome": "Elaine Maria Biasoli",
+        "nome": "Elaine Maria Biasoli"+"\n"+"M.D. DELEGADA DE POLÍCIA TITULAR DA 2ª DELEGACIA SECCIONAL DE POLÍCIA - SUL",
         "email": "ebiasoli@sp.gov.br"
     },
     "3ª Seccional Oeste": {
-        "nome": "Jurandir Correia de Sant’ Anna",
+        "nome": "Jurandir Correia de Sant’ Anna"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 3ª DELEGACIA SECCIONAL DE POLÍCIA - OESTE",
         "email": "jsantanna@sp.gov.br"
     },
     "4ª Seccional Norte": {
-        "nome": "Adalberto Henrique Barbosa",
+        "nome": "Adalberto Henrique Barbosa"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 4ª DELEGACIA SECCIONAL DE POLÍCIA - NORTE",
         "email": "ahbarbosa@sp.gov.br"
     },
     "5ª Seccional Leste": {
-        "nome": "Jose Aparecido Sanches Severo",
+        "nome": "Jose Aparecido Sanches Severo"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 5ª DELEGACIA SECCIONAL DE POLÍCIA - LESTE",
         "email": "jsevero@sp.gov.br"
     },
     "6ª Seccional Santo Amaro": {
-        "nome": "Génesio Leo Júnior",
+        "nome": "Génesio Leo Júnior"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 6ª DELEGACIA SECCIONAL DE POLÍCIA - SANTO AMARO",
         "email": "gljunior@sp.gov.br"
     },
     "7ª Seccional Itaquera": {
-        "nome": "Antonio Jose Pereira",
+        "nome": "Antonio Jose Pereira"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 7ª DELEGACIA SECCIONAL DE POLÍCIA - ITAQUERA",
         "email": "ajopereira@sp.gov.br"
     },
     "8ª Seccional São Mateus": {
-        "nome": "Valter Sergio de Abreu",
+        "nome": "Valter Sergio de Abreu"+"\n"+"M.D. DELEGADO DE POLÍCIA TITULAR DA 8ª DELEGACIA SECCIONAL DE POLÍCIA - SÃO MATEUS",
         "email": "vabreu@sp.gov.br"
     }
 }
