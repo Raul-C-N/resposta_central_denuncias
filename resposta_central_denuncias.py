@@ -91,6 +91,29 @@ E-mail: {dados['email']}
 
     txt_resultado.delete("1.0", tk.END)
     txt_resultado.insert(tk.END, texto)
+    
+    # --- SISTEMA DE COR NO TKINTER ---
+    # Configura a tag "vermelho" com a cor da fonte vermelha
+    txt_resultado.tag_config("vermelho", foreground="red")
+    
+    # Procuramos os trechos específicos e aplicamos a tag "vermelho" neles
+    trechos_para_colorir = [
+        "para auditoria em âmbito correcional",
+        "PRAZO: 07 DIAS"
+    ]
+    
+    for trecho in trechos_para_colorir:
+        inicio = "1.0"
+        while True:
+            # Busca a posição exata do texto dentro do componente
+            posicao = txt_resultado.search(trecho, inicio, stopindex=tk.END)
+            if not posicao:
+                break
+            # Calcula onde o trecho termina
+            fim = f"{posicao}+{len(trecho)}c"
+            # Aplica a cor vermelha neste intervalo
+            txt_resultado.tag_add("vermelho", posicao, fim)
+            inicio = fim
 
 
 def copiar_texto():
