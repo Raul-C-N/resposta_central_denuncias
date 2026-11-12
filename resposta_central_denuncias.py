@@ -73,7 +73,7 @@ De ordem do Excelentíssimo Senhor Doutor Delegado de Polícia Diretor, encaminh
 
 Solicito, por oportuno, que <NEGRITO>cópia recibada das informações prestadas ao Órgão interessado</NEGRITO> seja encaminhada <NEGRITO>pela Unidade responsável</NEGRITO> a essa honrosa Delegacia Seccional de Polícia, <NEGRITO>para auditoria em âmbito correcional</NEGRITO> e, após constatada a regularidade do expediente, V. Exa. providencie a remessa <NEGRITO>exclusivamente</NEGRITO> ao endereço eletrônico uip.decap@policiacivil.sp.gov.br, visando os registros pertinentes e que permitam sua rastreabilidade.
 
-<NEGRITO>PRAZO: 07 DIAS</NEGRITO>
+<NEGRITO>PRAZO: 15 DIAS</NEGRITO>
 
 At.te
 
